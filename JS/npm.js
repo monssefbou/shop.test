@@ -11,8 +11,3 @@ require('../../js/popover.js')
 require('../../js/scrollspy.js')
 require('../../js/tab.js')
 require('../../js/affix.js')
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Priv
